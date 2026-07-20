@@ -1,2 +1,8 @@
-print("Hi!")
-print("Hello")
+#%%
+print("Hello World")
+
+#%%
+print("jupyter test")
+# C-c C-e is the command to run excplisit cell.
+# M-n next cell
+# M-p previous cell
