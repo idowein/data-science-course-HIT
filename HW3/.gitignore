@@ -1,0 +1,21 @@
+# JetBrains / PyCharm settings
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+
+# Python caching and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
